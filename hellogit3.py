@@ -1,1 +1,0 @@
-print ("Fichero a ser eliminado")
